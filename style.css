@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Montserrat:ital@1&family=Orbitron&display=swap');
 
 canvas {
   display: block;
@@ -26,7 +27,7 @@ canvas {
 }
 
 .hero-container p {
-  font-family: 'GohuFont uni14 Nerd Font'; 
+  font-family: 'Orbitron', sans-serif; 
   font-size: 24px;
 
   letter-spacing: 2px;
@@ -42,7 +43,7 @@ canvas {
   color: #c81414;
   margin-bottom: 50px;
   font-size: 20px;
-  font-family: "GohuFont uni14 Nerd Font";
+  font-family: 'Orbitron', sans-serif;
   
 }
 
@@ -51,13 +52,13 @@ canvas {
 
 
 .header1 {
-  font-family: 'GohuFont uni14 Nerd Font';
+  font-family: 'Orbitron', sans-serif;
   font-size: 4vw;
  
 }
 
 .header2 {
-  font-family: 'GohuFont uni14 Nerd Font';
+  font-family: 'Orbitron', sans-serif;
   font: size 2vw;
   font-weight: bold;
   
